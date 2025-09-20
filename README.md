@@ -66,3 +66,11 @@ It covers algorithms, data structures, software engineering, web development, an
   - **Source Code**
   - **README/Notes** (where applicable)
 
+---
+
+## Connect with me 
+
+- ___Linkedin___ : [Soham Gurav](www.linkedin.com/in/soham-gurav-94b6b3384)
+- ___Github___ : [Soham Gurav](https://github.com/sohmh)
+
+---
