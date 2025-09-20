@@ -68,14 +68,9 @@ It covers algorithms, data structures, software engineering, web development, an
 
 ---
 
-## 🌟 Acknowledgements
-
-- Thanks to [CS50](https://cs50.harvard.edu/x/) and David J. Malan for creating such an incredible learning resource.
-- This repo is for educational purposes and documentation of my journey.
-
----
 
 ## 📫 Connect with Me
 
 - GitHub: [YourGitHubUsername](https://github.com/sohmh)  
 - LinkedIn: [YourLinkedIn](www.linkedin.com/in/soham-gurav-94b6b3384)  
+.
