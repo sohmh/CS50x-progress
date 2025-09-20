@@ -1,6 +1,6 @@
 # 📘 My CS50x Journey
 
-Welcome to my repository!  
+Welcome to my repository !  
 This repo documents my progress through [Harvard's CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/), one of the most popular computer science courses in the world.  
 
 Here, I’ll be uploading the project and notes I complete as I make my way through the course.
