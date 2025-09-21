@@ -68,6 +68,11 @@ It covers algorithms, data structures, software engineering, web development, an
 
 ---
 
+## 📘 Notes Policy
+**These notes reflect my personal understanding of CS50x concepts. They are shared to help others learn, but please do not copy, redistribute, or present them as your own. Attribution is required.**
+
+---
+
 ## Connect with me 
 
 - ___Linkedin___ : [Soham Gurav](www.linkedin.com/in/soham-gurav-94b6b3384)
